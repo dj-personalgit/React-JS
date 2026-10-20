@@ -1,0 +1,9 @@
+Basic Setup (studied)
+
+nested routes
+
+dynamic routes
+
+useNavigate
+
+404 page
